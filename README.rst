@@ -1,3 +1,4 @@
 APIGW
 =============================================
-Api gateway service
+Api gateway service.
+Currently under heavy development.
